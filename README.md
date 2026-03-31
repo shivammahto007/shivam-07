@@ -1,4 +1,4 @@
 # shivam-07
 This is my first Git repository.
 <br>
-Autor = Shivam Mahto 7
+Autor = Shivam Mahto 07
